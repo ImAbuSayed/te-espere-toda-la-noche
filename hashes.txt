@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Te esperé toda la noche
+
+This log tracks the cryptographic history and versioning for the song **Te esperé toda la noche** (te-espere-toda-la-noche).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T14:29:06.713698 | `v1` | `2416e34644e9b4ce7af1fc0374271bbe9eea4ebf9467710ad32c712086632a62` | `8dfe7b15dc7b0136cc9fec58c474259c327e7804c78076dfc11a77ecc04b6937` | `2026-06-14_te-espere-toda-la-noche-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
