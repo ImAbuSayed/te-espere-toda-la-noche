@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/te-espere-toda-la-noche/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Te esperé toda la noche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/te-espere-toda-la-noche/) |
+| **Get License** | [Get a Licensing Quote for Te esperé toda la noche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/te-espere-toda-la-noche/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Te esperé toda la noche, nena, sin saber de ti
+> Con la luna por testigo y las ganas de Madrid
+> Yo dejé la puerta abierta y la botella a la mitad
+> Porque sé que tú me buscas cuando quieres de verdad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
